@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+.main-body-header{
+	width:100%;
+	font-family: 'Ubuntu', sans-serif;
+	float:left;
+	padding-left:.5em;
+	font-size: 2em;
+	
+}
+
+hr{
+	float:left;
+	width:50%;
+	position:static;
+	padding-left: .5em;
+}
+
+.main-body{	
+	font-family: Calibri;
+	padding-left:1em;
+}
